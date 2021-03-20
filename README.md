@@ -9,3 +9,5 @@ Dataset
 	The data set we have chosen contains 2 types of input features there were collected at the mall:
 •	Objective: factual information.
 •	Subjective: calculated information given by the mall.
+
+By: Roozbeh jafari, Chang-Han Chen, Lequn Yu, Jiahui Xu
